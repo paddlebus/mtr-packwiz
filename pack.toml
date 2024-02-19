@@ -1,0 +1,13 @@
+name = "Transit World Modpack"
+author = "Paddlebus"
+version = "24.02.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a3a4fe502e49523229765130af6df5c00527a41d133115513366a37763aad446"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"
