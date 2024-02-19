@@ -1,0 +1,7 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-fabric-1.20.4-4.0.0-beta-4.jar"
+
+[download]
+url = "https://raw.githubusercontent.com/paddlebus/mtr-packwiz/main/MTR-fabric-1.20.4-4.0.0-beta-4.jar"
+hash-format = "sha256"
+hash = "d3c23ff07b50fcbeda8ba5d6b93975a21c044a362ba87d063059ddb465a3203c"
