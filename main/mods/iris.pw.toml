@@ -7,6 +7,13 @@ url = "https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.
 hash-format = "sha1"
 hash = "42e06f32cd7036c10d69564a64ce1d08afe3c613"
 
+[option]
+optional = true
+default = true
+description = """
+A shader mod for Minecraft compatible with OptiFine shaders.
+"""
+
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"

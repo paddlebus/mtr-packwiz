@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a659fc922dfbcbb29bad2bbc11dd34cb1686c3c9cde9a93fe484db0f4e4c3062"
+hash = "911920a0d32f628838f1d389df2c53c77b66e7818480b108820d07b4043c21ce"
 metafile = true
 
 [[files]]
@@ -17,17 +17,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6ea1eddd8ff08bd26c296bf6c1e3906c0e2ec5ad0b334a0adca4f1f2a1bb03cc"
+hash = "9a6e4e30c27becc49dd4ea13a0f6f7bfc788a6383b59d039b0c74b032ab179cd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
+hash = "bc5559ece399ce470ad9bb879827ab460b3e5c5c113b39ae18ace6c33d875d1c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -42,7 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+hash = "7fd0d6d4a671eb6c38a1903a9e0cc32b6fca3ffa6a331fef81e7f4d56451813f"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "ef2fe1fbc22c2cce13363eb2b1be22e2190356dcdf1aed3c92c30a975a06db3d"
 metafile = true
 
 [[files]]
@@ -71,6 +76,11 @@ hash = "3f94983e142b22dda386a077d656600ca9c475831e4fb424d0d36374b543b032"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "a8efb1759a55e32bfd061e45ccd093fc96eb813c759a737191c31e18869560ae"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
 metafile = true
@@ -87,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "9826c6020d1498b3c80d825f6ad272234c201b3ace8fb862e2aeebd7bb45fb74"
+hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
 metafile = true
 
 [[files]]
@@ -111,13 +121,23 @@ hash = "2f0a143ceae8c07f892b1512e3cab5649e3a413b37f4cc66a5d7f3872e9155b8"
 metafile = true
 
 [[files]]
-file = "mods/trash-cans.pw.toml"
-hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+file = "mods/worldedit.pw.toml"
+hash = "3f238c8e7bbe2b4be61c3e3cd4b6ef8a8245323a67b9a2c53c5d6d5425e43586"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "1cc3dbe7c5fad396ca57e2e4fd8f7569ae7cd722c1deb6fc8840abe53f09632d"
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "ae564e4bec78e92add6724f14d435db98a097277a05a3b078e35614caa21000d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "12b0af813f3cade23e4e329914ecd24977fe0d5b9e01e93bd530714a8a4cbdac"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "bcba0e3e5178850e8f8adfc3cf0184706de3f3563ba530ef4f27cd5651a513d4"
 metafile = true
 
 [[files]]
