@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/blockus.pw.toml"
+hash = "24ae23342f64af91bb77a8405766f7b1265d8fef1389e65f99d87ee8b07f449d"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "b8df5a6ae8c4f2c5492a9235463aa3f231af27964d7e240fcba1421c99e89736"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2f0a143ceae8c07f892b1512e3cab5649e3a413b37f4cc66a5d7f3872e9155b8"
+metafile = true
+
+[[files]]
+file = "mods/time-wind.pw.toml"
+hash = "3a42d26f7111d787027747347fe7a3a47d6448555a5ff3a9f3d2322d557a2d36"
 metafile = true
 
 [[files]]
