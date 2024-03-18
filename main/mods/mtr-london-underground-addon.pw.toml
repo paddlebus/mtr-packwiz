@@ -1,0 +1,7 @@
+name = "MTR London Underground Addon"
+filename = "MTR-London-Underground-Addon-fabric-1.20.4-2.1.1.jar"
+
+[download]
+url = "https://raw.githubusercontent.com/Minecraft-Transit-Railway/Beta-Testing-Packwiz/master/mods/MTR-London-Underground-Addon-fabric-1.20.4-2.1.1.jar"
+hash-format = "sha256"
+hash = "68fd26382b0810be95fa88a6fe65c24de0fa5287cb10c22a8dc50507ee5014c6"

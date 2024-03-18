@@ -2,6 +2,6 @@ name = "Minecraft Transit Railway"
 filename = "MTR-fabric-1.20.4-4.0.0-beta-6.jar"
 
 [download]
-url = "https://raw.githubusercontent.com/twocomputed/transitworld-modpack/main/MTR-fabric-1.20.4-4.0.0-beta-6.jar"
+url = "https://raw.githubusercontent.com/Minecraft-Transit-Railway/Beta-Testing-Packwiz/master/mods/MTR-fabric-1.20.4-4.0.0-beta-6.jar"
 hash-format = "sha256"
-hash = "0818880ff847173e614d6638d0a7fa4c9574bd4aa258c60cfd04d08d83d91611"
+hash = "5af89362d5ff9e1628370672138d43dd825fd9b0a44d488655e5997b86bc21c8"

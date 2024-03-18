@@ -77,12 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "41ad6d78487abd14e2c897e8457ad0f5b6c7d6ba2b3f4f90a038806eb98afa3a"
+hash = "d23cfc164604859c8acac59d4fec65f5d4f1e7eaf85a2812b7d3572611142256"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
+
+[[files]]
+file = "mods/mtr-london-underground-addon.pw.toml"
+hash = "6e92d37a668abd3a0bb8765030ba2d7046f8147f8cf942cb77b897b6f36693d7"
 metafile = true
 
 [[files]]
