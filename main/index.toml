@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b8df5a6ae8c4f2c5492a9235463aa3f231af27964d7e240fcba1421c99e89736"
+hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "12b0af813f3cade23e4e329914ecd24977fe0d5b9e01e93bd530714a8a4cbdac"
+hash = "41ca073190e05199790c7932f7c249881385504745564a8445301f179ef1cbd7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "bcba0e3e5178850e8f8adfc3cf0184706de3f3563ba530ef4f27cd5651a513d4"
+hash = "4a9b1b1abd02e14be22eda6e367d6a026faddac80d957a111899133799994638"
 metafile = true
 
 [[files]]
