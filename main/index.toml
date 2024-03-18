@@ -46,11 +46,6 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "ef2fe1fbc22c2cce13363eb2b1be22e2190356dcdf1aed3c92c30a975a06db3d"
 metafile = true
