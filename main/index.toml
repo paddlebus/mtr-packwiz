@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
+hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bc5559ece399ce470ad9bb879827ab460b3e5c5c113b39ae18ace6c33d875d1c"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "ef2fe1fbc22c2cce13363eb2b1be22e2190356dcdf1aed3c92c30a975a06db3d"
+hash = "db3e1b22c519280dafcdab4db7d2edd00ae37dd818ec792a386cf68449f47c89"
 metafile = true
 
 [[files]]
@@ -77,17 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "d23cfc164604859c8acac59d4fec65f5d4f1e7eaf85a2812b7d3572611142256"
+hash = "5e5008c6ed28ad0d9bc98552b79fcae4ef77732c1327b52b806471bf7c8b2103"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
-metafile = true
-
-[[files]]
-file = "mods/mtr-london-underground-addon.pw.toml"
-hash = "6e92d37a668abd3a0bb8765030ba2d7046f8147f8cf942cb77b897b6f36693d7"
 metafile = true
 
 [[files]]
@@ -142,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "41ca073190e05199790c7932f7c249881385504745564a8445301f179ef1cbd7"
+hash = "b1da8354d407e3a1b1b678f041293f03ac2a4f4b0efc3fc19fac9cb934a35754"
 metafile = true
 
 [[files]]
@@ -157,5 +152,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "db747915d7dabf8c2c53c8915e6df8054a5ef68477caa887906ba2723f29f7de"
+hash = "a37c5448a949a9a4ddc6555cbc32ff8096ca30a4ef7d04ca705f4fda62400d2f"
 metafile = true
