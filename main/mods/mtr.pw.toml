@@ -1,0 +1,7 @@
+name = "mtr"
+filename = "MTR-fabric-4.0.0-beta-7+1.20.4.jar"
+
+[download]
+url = "https://github.com/twocomputed/transitworld-modpack/raw/main/MTR-fabric-4.0.0-beta-7+1.20.4.jar"
+hash-format = "sha256"
+hash = "c2a148ecec6346edeec0b58278c750bbc9c6336776146db47cb6781141a269e1"

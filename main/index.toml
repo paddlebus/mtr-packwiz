@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5b559d318df3a994b1419ce353aca26700acc6bbf451c43831dd61593d758815"
+hash = "c41600b9ad62a82387486a9e5f5661baeb9dda19db7a3c4bb91ef19446f2daf4"
 metafile = true
 
 [[files]]
@@ -76,18 +76,18 @@ hash = "b0a484fbc539f01df69988ddc62de072fdaebe9599887d3f07c263b73870e706"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "673f5c74d44caee6c0f0f57ed14f14a7ac83d07db497b9eae581378e3da6bcde"
+file = "mods/modmenu.pw.toml"
+hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
+file = "mods/mtr.pw.toml"
+hash = "e8295573455b1edc398e05cdba3d384f0999a251eefe24e4de6898b81e686853"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "5e4c8fa8d6cbad858ce9bb32ed45e5baa2cb23273b800864aecf74266acdf203"
+hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
 metafile = true
 
 [[files]]
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/time-wind.pw.toml"
 hash = "b3a5195488845e33f48602c506341dcbf88aeabc149d2f243d29dafb614a0caf"
+metafile = true
+
+[[files]]
+file = "mods/underground.pw.toml"
+hash = "38b36bfc1bd5160cc26e098443172e509ab9ef80bc1b039ec9c5290dbe1fe137"
 metafile = true
 
 [[files]]
