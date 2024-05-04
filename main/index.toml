@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
+hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2f0a143ceae8c07f892b1512e3cab5649e3a413b37f4cc66a5d7f3872e9155b8"
+hash = "95cbc03a19c9df9a45a0944f9ad4bf9e6f127f641f1aa6ecc63569c0d7021ee7"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bc7688aa41db382b407430d998342da363b5b62ff453f97c2dabf30826cfe052"
+hash = "f2c750d280102a311769d802f9b151f5d6850c04a8cba6090a2e802de54ff6ce"
 metafile = true
 
 [[files]]
