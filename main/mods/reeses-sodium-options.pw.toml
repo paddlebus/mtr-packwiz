@@ -11,3 +11,7 @@ hash = "5e2f4ad814f34e2f55fda4efa30c878c5e573978"
 [update.modrinth]
 mod-id = "Bh37bMuy"
 version = "fkLiGoHs"
+
+[option]
+optional = true
+description = "Improved options for Sodium. Requires Sodium to be installed."

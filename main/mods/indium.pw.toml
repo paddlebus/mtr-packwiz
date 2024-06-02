@@ -11,3 +11,7 @@ hash = "b24233f29c0ce4802c61ea8998e01e6e4580ae60"
 [update.modrinth]
 mod-id = "Orvt0mRa"
 version = "Aouse6P7"
+
+[option]
+optional = true
+description = "Adds support for the Fabric Rendering API with Sodium. Requires Sodium to be installed."

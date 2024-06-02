@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "24ae23342f64af91bb77a8405766f7b1265d8fef1389e65f99d87ee8b07f449d"
+hash = "31dbc63abe61c1469eded41696a95d79bb8cf72ba25351ca82dbbd891fd8ba17"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
+hash = "f4d50e2e0fae0612e93aa9128bb49258ba4b7a6c6a32ff39a0bc0cb04f2d7cbc"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c41600b9ad62a82387486a9e5f5661baeb9dda19db7a3c4bb91ef19446f2daf4"
+hash = "b36366f318038692638dc37f7ad3ef8a38be3a7a99440444e770a36bad797159"
 metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
+hash = "b9749a14f4cc5697124cdbd46c313384713a9c28f4b30a5baae6d43e8561e83c"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "3f94983e142b22dda386a077d656600ca9c475831e4fb424d0d36374b543b032"
+hash = "3dc379bd10917529c8d70fd03ab46ffcdd0948e30a0d7a75a82b0ab28c84a765"
 metafile = true
 
 [[files]]
@@ -113,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
 metafile = true
 
 [[files]]
@@ -157,10 +152,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f2c750d280102a311769d802f9b151f5d6850c04a8cba6090a2e802de54ff6ce"
+hash = "e3aab9d877766dfc899ef755c5d61e869fc85dc4ec95ab170057fd4e17407faa"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "a37c5448a949a9a4ddc6555cbc32ff8096ca30a4ef7d04ca705f4fda62400d2f"
+hash = "fc3cb53fdaf6d39dcc61a817fdef0bc8dfe2c2e14540578019f39ae73a606dd1"
 metafile = true

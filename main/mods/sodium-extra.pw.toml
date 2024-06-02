@@ -11,3 +11,7 @@ hash = "5cdad24baaac7c254e07205aef6052946f4a5246"
 [update.modrinth]
 mod-id = "PtjYWJkn"
 version = "M0ndiav7"
+
+[option]
+optional = true
+description = "Extra features for Sodium. Requires Sodium to be installed."
