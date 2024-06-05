@@ -46,13 +46,13 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
-file = "mods/jcm.pw.toml"
-hash = "89c25b079301160afb29e6b74bd7d9c60b06266dcc8af5e03f58cbbdec9dfeea"
+file = "mods/joban-client-mod.pw.toml"
+hash = "59a362e42dee23d7dc55057e5575640e74c160225ae3c5295d638259c42f2a7d"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b36366f318038692638dc37f7ad3ef8a38be3a7a99440444e770a36bad797159"
+hash = "e5a28f70092dd4e1f6497af9733b9f68012fec2d3602e1c773065e7ca241df42"
 metafile = true
 
 [[files]]
@@ -81,13 +81,13 @@ hash = "3dc379bd10917529c8d70fd03ab46ffcdd0948e30a0d7a75a82b0ab28c84a765"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "2f1f535b2c3c06fc70bd85fc978fa2644e8e8d957027279c80289d932e3f737b"
 metafile = true
 
 [[files]]
-file = "mods/mtr.pw.toml"
-hash = "e8295573455b1edc398e05cdba3d384f0999a251eefe24e4de6898b81e686853"
+file = "mods/modmenu.pw.toml"
+hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
@@ -121,13 +121,13 @@ hash = "95cbc03a19c9df9a45a0944f9ad4bf9e6f127f641f1aa6ecc63569c0d7021ee7"
 metafile = true
 
 [[files]]
-file = "mods/time-wind.pw.toml"
-hash = "3a42d26f7111d787027747347fe7a3a47d6448555a5ff3a9f3d2322d557a2d36"
+file = "mods/the-tube.pw.toml"
+hash = "dedc7194546023487f2ed22ad73cafadfa1925bede81cdd3046daad8d5b47f25"
 metafile = true
 
 [[files]]
-file = "mods/underground.pw.toml"
-hash = "38b36bfc1bd5160cc26e098443172e509ab9ef80bc1b039ec9c5290dbe1fe137"
+file = "mods/time-wind.pw.toml"
+hash = "3a42d26f7111d787027747347fe7a3a47d6448555a5ff3a9f3d2322d557a2d36"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bebb62a0212130a21af17afc70760c652dfad111ef399e949ab5e6644d5264bf"
+hash = "85946f39a0e38c03e479a41310f9b575b82f57e29f896ecca63e3fd6099c87e6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a05c3f4a387a8825e76ff65780d29291ab8c9bc564aa7d790d47a1b44d443458"
+hash = "a3eb84c8eca1e61d88f41ae2291ea8537aca19e2485ada0cf97030d2b364eed3"
 metafile = true
 
 [[files]]
