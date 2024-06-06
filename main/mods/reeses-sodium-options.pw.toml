@@ -14,4 +14,4 @@ version = "fkLiGoHs"
 
 [option]
 optional = true
-description = "Improved options for Sodium. Requires Sodium to be installed."
+description = "Improved options screen for Sodium\n"

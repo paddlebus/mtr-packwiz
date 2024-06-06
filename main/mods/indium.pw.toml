@@ -14,4 +14,4 @@ version = "Aouse6P7"
 
 [option]
 optional = true
-description = "Adds support for the Fabric Rendering API with Sodium. Requires Sodium to be installed."
+description = "Fabric Rendering API for Sodium\n"
