@@ -46,6 +46,11 @@ hash = "00dd7f8cf1ed8ab1a31e60f542655f3cfc64f4a597637eb6fae14f556021e744"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
+metafile = true
+
+[[files]]
 file = "mods/joban-client-mod.pw.toml"
 hash = "59a362e42dee23d7dc55057e5575640e74c160225ae3c5295d638259c42f2a7d"
 metafile = true
