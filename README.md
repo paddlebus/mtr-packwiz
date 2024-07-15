@@ -7,4 +7,4 @@ The following instructions will involve copying and pasting a link into your lau
 
 [
 https://github.com/twocomputed/transitworld-modpack/raw/main/TransitWorld.zip
-](url)
+](https://github.com/twocomputed/transitworld-modpack/raw/main/TransitWorld.zip)
