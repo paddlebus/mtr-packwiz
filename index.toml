@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ca0d2de7c1740abfea5678635f3c38b60f12101a0e03d8413e7776fb4b47260a"
+
+[[files]]
 file = "mods/blockus.pw.toml"
 hash = "31dbc63abe61c1469eded41696a95d79bb8cf72ba25351ca82dbbd891fd8ba17"
 metafile = true
@@ -42,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "00dd7f8cf1ed8ab1a31e60f542655f3cfc64f4a597637eb6fae14f556021e744"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
@@ -51,8 +55,8 @@ hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
 metafile = true
 
 [[files]]
-file = "mods/joban-client-mod.pw.toml"
-hash = "59a362e42dee23d7dc55057e5575640e74c160225ae3c5295d638259c42f2a7d"
+file = "mods/jcm.pw.toml"
+hash = "d75c9226d022e89ef84c71d378bbdc2694fba018133b5315956e4805f0ed0ff5"
 metafile = true
 
 [[files]]
@@ -87,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "3da72ca22f949680876102160e64f6491e231dacf281706a749528ec8fbe319d"
+hash = "54d6283f31c189d020fb7d24f23a8d720eaaf1bca81ed5c24b753eba926d8854"
 metafile = true
 
 [[files]]
@@ -102,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "9d0488e4acadabb8987a5a48562868c17dcbbe27cd0f80d980ffc521e68ef1ab"
+hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
@@ -117,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3bf2e6ad8e8988957a1800af8dfb32901c41f4308b84baa4b0d7014f3b4da064"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
@@ -127,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
-hash = "dedc7194546023487f2ed22ad73cafadfa1925bede81cdd3046daad8d5b47f25"
+hash = "d27dedf4e8fcd1da728cb828330337a44450321499fd70df9f5087d793117fe0"
 metafile = true
 
 [[files]]

@@ -11,7 +11,3 @@ hash = "4c38d7b01660a27a98406767c613b3f28b6c9dfe"
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "4GyXKCLd"
-
-[option]
-optional = true
-description = "Performance improvements for Minecraft.\n"
