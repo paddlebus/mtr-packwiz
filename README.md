@@ -4,5 +4,6 @@ In order to join the TransitWorld Server, a modpack is required. The mods automa
 
 ## **Prism Launcher**
 The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
-
-https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
+[
+https://github.com/twocomputed/transitworld-modpack/raw/main/TransitWorld.zip
+](url)
