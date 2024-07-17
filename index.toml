@@ -115,6 +115,11 @@ hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
 metafile = true
 
 [[files]]
+file = "mods/slideshow-fabric.pw.toml"
+hash = "68ffd65f6859359e115c2db4a79de9f7cb6df4fc7fb94016ca475e0b2a3a4382"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
