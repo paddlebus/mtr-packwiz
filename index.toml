@@ -25,11 +25,6 @@ hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "7008749d79eb9de80932ed7260915eebfc8367adde3525142ad4f43587d24b7d"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
